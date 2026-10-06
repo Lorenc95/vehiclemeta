@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>FLATBED</modelName>
+      <colors itemType="CVehicleModelColorIndices">
+        <Item>
+          <indices>122 0 112 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>45 40 35 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>73 70 63 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>16 0 7 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>18 0 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>43 0 43 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>122 0 122 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>109 0 109 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>6 0 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities itemType="LicensePlateProbabilityNamed">
+          <Item>
+            <Name>hash_9C8EFFE2</Name>
+            <Value value="30" />
+          </Item>
+          <Item>
+            <Name>hash_3833FB44</Name>
+            <Value value="70" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

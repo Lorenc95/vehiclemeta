@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>sadler2</modelName>
+      <colors itemType="CVehicleModelColorIndices">
+        <Item>
+          <indices>9 9 7 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>11 11 14 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>1 1 4 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>18 13 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>25 23 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>6 67 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>31 31 36 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>33 36 35 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>27 41 36 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>34 48 45 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>50 50 52 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>51 51 59 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>63 63 63 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>67 70 67 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>76 76 77 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>95 95 100 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>103 103 105 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>105 105 106 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>7 0 5 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>111 0 0 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>hash_0D21AC6D</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities itemType="LicensePlateProbabilityNamed">
+          <Item>
+            <Name>hash_FF7F41C8</Name>
+            <Value value="1" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

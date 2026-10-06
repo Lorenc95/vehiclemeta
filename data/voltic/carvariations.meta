@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>voltic</modelName>
+      <colors itemType="CVehicleModelColorIndices">
+        <Item>
+          <indices>0 0 62 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>0 0 0 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>33 33 27 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>4 4 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>6 6 111 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>5 5 67 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>51 51 116 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>32 32 41 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>7 7 5 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>88 88 89 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>72 72 63 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>111 111 0 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>7 7 5 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+        <Item>
+          <indices>3 3 5 156 0 0</indices>
+          <liveries>
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0
+     </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>hash_EA35D247</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities itemType="LicensePlateProbabilityNamed">
+          <Item>
+            <Name>hash_9C8EFFE2</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="59" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,3159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>hash_A44AC46B</kitName>
+      <id value="58" />
+      <kitType>MKT_SPORT</kitType>
+      <visibleMods itemType="CVehicleModVisible">
+        <Item>
+          <modelName>schwarzer_wing_1</modelName>
+          <modShopLabel>MNU_WING5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_2</modelName>
+          <modShopLabel>MNU_WING4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_4</modelName>
+          <modShopLabel>MNU_WING8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_1</modelName>
+          <modShopLabel>MNU_EXH3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.5" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_2</modelName>
+          <modShopLabel>MNU_EXH11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.65" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_3</modelName>
+          <modShopLabel>MNU_EXH12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.85" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_4</modelName>
+          <modShopLabel>MNU_EXH6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_race_int</modelName>
+          <modShopLabel>MNU_CAGE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_1</modelName>
+          <modShopLabel>SCHWAR_GRILL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_roof</modelName>
+          <modShopLabel>MNU_ROOFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_1</modelName>
+          <modShopLabel>MNU_BONC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_side_1</modelName>
+          <modShopLabel />
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_side_2</modelName>
+          <modShopLabel />
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bumr_2</modelName>
+          <modShopLabel>MNU_BUMR2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bumf_1</modelName>
+          <modShopLabel>SCHWAR_BUM1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_intercooler</modelName>
+          <modShopLabel>SCHWAR_BUM3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_splitter_1</modelName>
+          <modShopLabel>MNU_BUMF7</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_intercooler2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_1c</modelName>
+          <modShopLabel>SCHW_WING_1C</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_a1</modelName>
+          <modShopLabel>SCHW_WING_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_ac</modelName>
+          <modShopLabel>SCHW_WING_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_afc</modelName>
+          <modShopLabel>SCHW_WING_AFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_b1</modelName>
+          <modShopLabel>SCHW_WING_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_bc</modelName>
+          <modShopLabel>SCHW_WING_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_2c</modelName>
+          <modShopLabel>SCHW_WING_2C</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_c1</modelName>
+          <modShopLabel>SCHW_WING_C1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_cc</modelName>
+          <modShopLabel>SCHW_WING_CC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_d1</modelName>
+          <modShopLabel>SCHW_WING_D1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_wing_dc</modelName>
+          <modShopLabel>SCHW_WING_DC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_a1</modelName>
+          <modShopLabel>SCHW_FIN_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_ac</modelName>
+          <modShopLabel>SCHW_FIN_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_afc</modelName>
+          <modShopLabel>SCHW_FIN_AFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_b1</modelName>
+          <modShopLabel>SCHW_FIN_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_bc</modelName>
+          <modShopLabel>SCHW_FIN_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_fin_bfc</modelName>
+          <modShopLabel>SCHW_FIN_BFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_a1</modelName>
+          <modShopLabel>SCHW_SKIRT_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_a2</modelName>
+          <modShopLabel>SCHW_SKIRT_A2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_ac</modelName>
+          <modShopLabel>SCHW_SKIRT_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_b1</modelName>
+          <modShopLabel>SCHW_SKIRT_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_b2</modelName>
+          <modShopLabel>SCHW_SKIRT_B2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_bc</modelName>
+          <modShopLabel>SCHW_SKIRT_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_c1</modelName>
+          <modShopLabel>SCHW_SKIRT_C1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_c2</modelName>
+          <modShopLabel>SCHW_SKIRT_C2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_cc</modelName>
+          <modShopLabel>SCHW_SKIRT_CC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_cfc</modelName>
+          <modShopLabel>SCHW_SKIRT_CFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_cfc1</modelName>
+          <modShopLabel>SCHW_SKIRT_CFC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_skirt_cfc2</modelName>
+          <modShopLabel>SCHW_SKIRT_CFC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_ac</modelName>
+          <modShopLabel>SCHW_SPLIT_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_ac1</modelName>
+          <modShopLabel>SCHW_SPLIT_AC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_ac2</modelName>
+          <modShopLabel>SCHW_SPLIT_AC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bc</modelName>
+          <modShopLabel>SCHW_SPLIT_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bc1</modelName>
+          <modShopLabel>SCHW_SPLIT_BC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bc2</modelName>
+          <modShopLabel>SCHW_SPLIT_BC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bfc</modelName>
+          <modShopLabel>SCHW_SPLIT_BFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bfc1</modelName>
+          <modShopLabel>SCHW_SPLIT_BFC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_bfc2</modelName>
+          <modShopLabel>SCHW_SPLIT_BFC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cc</modelName>
+          <modShopLabel>SCHW_SPLIT_CC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cc1</modelName>
+          <modShopLabel>SCHW_SPLIT_CC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cc2</modelName>
+          <modShopLabel>SCHW_SPLIT_CC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cfc</modelName>
+          <modShopLabel>SCHW_SPLIT_CFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cfc1</modelName>
+          <modShopLabel>SCHW_SPLIT_CFC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_split_cfc2</modelName>
+          <modShopLabel>SCHW_SPLIT_CFC2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_a1</modelName>
+          <modShopLabel>SCHW_BONNET_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_ac</modelName>
+          <modShopLabel>SCHW_BONNET_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_b1</modelName>
+          <modShopLabel>SCHW_BONNET_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_bc</modelName>
+          <modShopLabel>SCHW_BONNET_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_c1</modelName>
+          <modShopLabel>SCHW_BONNET_C1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_cc</modelName>
+          <modShopLabel>SCHW_BONNET_CC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_d1</modelName>
+          <modShopLabel>SCHW_BONNET_D1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_dc</modelName>
+          <modShopLabel>SCHW_BONNET_DC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_e1</modelName>
+          <modShopLabel>SCHW_BONNET_E1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_ec</modelName>
+          <modShopLabel>SCHW_BONNET_EC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_f1</modelName>
+          <modShopLabel>SCHW_BONNET_F1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_f2</modelName>
+          <modShopLabel>SCHW_BONNET_F2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_fc</modelName>
+          <modShopLabel>SCHW_BONNET_FC</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bonnet_fd</modelName>
+          <modShopLabel>SCHW_BONNET_FD</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grillnull</modelName>
+          <modShopLabel>SCHW_GRLL_A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_a1</modelName>
+          <modShopLabel>SCHW_GRILL_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_a2</modelName>
+          <modShopLabel>SCHW_GRILL_A2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_b1</modelName>
+          <modShopLabel>SCHW_GRILL_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_b2</modelName>
+          <modShopLabel>SCHW_GRILL_B2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_bc</modelName>
+          <modShopLabel>SCHW_GRILL_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_grill_bd</modelName>
+          <modShopLabel>SCHW_GRILL_BD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_1c</modelName>
+          <modShopLabel>SCHW_EXH_1C</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_1</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.5" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_1d</modelName>
+          <modShopLabel>SCHW_EXH_1D</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_1</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.5" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_1e</modelName>
+          <modShopLabel>SCHW_EXH_1E</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_1</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.5" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_2c</modelName>
+          <modShopLabel>SCHW_EXH_2C</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.65" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_2d</modelName>
+          <modShopLabel>SCHW_EXH_2D</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.65" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_3b</modelName>
+          <modShopLabel>SCHW_EXH_3B</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_3</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.85" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_3c</modelName>
+          <modShopLabel>SCHW_EXH_3C</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_3</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.85" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_3e</modelName>
+          <modShopLabel>SCHW_EXH_3E</modShopLabel>
+          <linkedModels>
+            <Item>schwarzer_exh_nodes_3</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_e</Item>
+            <Item>exhaust</Item>
+            <Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="0.85" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bumr_2a1</modelName>
+          <modShopLabel>SCHW_BUMR_2A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_bumr_2a2</modelName>
+          <modShopLabel>SCHW_BUMR_2A2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_race_b</modelName>
+          <modShopLabel>SCHW_RACE_A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_race_a</modelName>
+          <modShopLabel>SCHW_RACE_B</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_race_d</modelName>
+          <modShopLabel>SCHW_RACE_C</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_race_c</modelName>
+          <modShopLabel>SCHW_RACE_D</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_roof_a1</modelName>
+          <modShopLabel>SCHW_ROOF_A1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_roof_ac</modelName>
+          <modShopLabel>SCHW_ROOF_AC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_roof_b1</modelName>
+          <modShopLabel>SCHW_ROOF_B1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_roof_bc</modelName>
+          <modShopLabel>SCHW_ROOF_BC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery9</modelName>
+          <modShopLabel>SCHW_LIVERY9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery10</modelName>
+          <modShopLabel>SCHW_LIVERY10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery1</modelName>
+          <modShopLabel>SCHW_LIVERY1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery2</modelName>
+          <modShopLabel>SCHW_LIVERY2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery3</modelName>
+          <modShopLabel>SCHW_LIVERY3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery4</modelName>
+          <modShopLabel>SCHW_LIVERY4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery5</modelName>
+          <modShopLabel>SCHW_LIVERY5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery6</modelName>
+          <modShopLabel>SCHW_LIVERY6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery7</modelName>
+          <modShopLabel>SCHW_LIVERY7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_livery8</modelName>
+          <modShopLabel>SCHW_LIVERY8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+          <weaponSlot value="-1" />
+          <weaponSlotSecondary value="-1" />
+          <disableProjectileDriveby value="false" />
+          <disableDriveby value="false" />
+          <disableDrivebySeat value="-1" />
+          <disableDrivebySeatSecondary value="-1" />
+        </Item>
+      </visibleMods>
+      <linkMods itemType="CVehicleModLink">
+        <Item>
+          <modelName>schwarzer_intercooler2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_nodes_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_nodes_2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>schwarzer_exh_nodes_3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods itemType="CVehicleModStat">
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>hash_622480DC</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_F39227BC</identifier>
+          <modifier value="-1390777827" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_4DF196D6</identifier>
+          <modifier value="-1751761149" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_0305BDAE</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_104C583B</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_5EE9F579</identifier>
+          <modifier value="-2099967605" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_ECF4918C</identifier>
+          <modifier value="-1786663196" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_3B3D2E20</identifier>
+          <modifier value="-587743761" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_25BA0D65</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_1</identifier>
+          <modifier value="-666433007" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_2</identifier>
+          <modifier value="-402413174" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_3</identifier>
+          <modifier value="-182074418" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_5</identifier>
+          <modifier value="-1609983577" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_6</identifier>
+          <modifier value="-1312277212" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>musical_horn_business_7</identifier>
+          <modifier value="-1091676304" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_c0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_d0</identifier>
+          <modifier value="-1708346067" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_e0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_f0</identifier>
+          <modifier value="-410464896" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_g0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_a0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_b0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_busi2_c_major_notes_c1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hipster_horn_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hipster_horn_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hipster_horn_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hipster_horn_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>indep_horn_1</identifier>
+          <modifier value="-722822506" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>indep_horn_2</identifier>
+          <modifier value="-493570582" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>indep_horn_3</identifier>
+          <modifier value="-1451310145" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>indep_horn_4</identifier>
+          <modifier value="-953155807" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxe_horn_1</identifier>
+          <modifier value="-1095309955" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxe_horn_2</identifier>
+          <modifier value="-1394589232" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxe_horn_3</identifier>
+          <modifier value="-338772048" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxory_horn_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxury_horn_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>luxury_horn_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_ADDA777E</identifier>
+          <modifier value="-1378191490" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_DD69EE08</identifier>
+          <modifier value="-580260344" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_9BADD325</identifier>
+          <modifier value="-1683107035" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_BF236EB7</identifier>
+          <modifier value="-1088196937" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_12824D0B</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_B0C2FDDB</identifier>
+          <modifier value="-1329398309" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_034BAE9E</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_39859163</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_0354642A</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_808D4A0A</identifier>
+          <modifier value="-2138224118" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_17D78D30</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_357E85FA</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_216DA05C</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>hash_12BACFAB</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_01</identifier>
+          <modifier value="-443787204" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_01_preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_02</identifier>
+          <modifier value="-882105348" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_02_preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_03</identifier>
+          <modifier value="-920707230" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>dlc_aw_airhorn_03_preview</identifier>
+          <modifier value="-1496922658" />
+          <audioApply value="1" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames itemType="CVehicleKit__sSlotNameOverride">
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_CAGE</name>
+        </Item>
+        <Item>
+          <slot>VMT_WING_R</slot>
+          <name>TOP_ROOFFIN</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+      <livery2Names />
+    </Item>
+  </Kits>
+  <Lights>
+    <Item>
+      <id value="46" />
+      <indicator>
+        <intensity value="0.375" />
+        <falloffMax value="2.5" />
+        <falloffExponent value="8" />
+        <innerConeAngle value="20" />
+        <outerConeAngle value="50" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF7300" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0" />
+        <size_far value="0" />
+        <intensity value="0" />
+        <intensity_far value="0" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0" />
+        <yRotation value="0" />
+        <zRotation value="0" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0" />
+        <size_far value="0" />
+        <intensity value="0" />
+        <intensity_far value="0" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0" />
+        <yRotation value="0" />
+        <zRotation value="0" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.25" />
+        <falloffMax value="4" />
+        <falloffExponent value="16" />
+        <innerConeAngle value="45" />
+        <outerConeAngle value="90" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="1.2" />
+        <size_far value="2.5" />
+        <intensity value="5" />
+        <intensity_far value="1" />
+        <color value="0xFFFF0F05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0" />
+        <yRotation value="0" />
+        <zRotation value="0" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0" />
+        <size_far value="0" />
+        <intensity value="0" />
+        <intensity_far value="0" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0" />
+        <yRotation value="0" />
+        <zRotation value="0" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.5" />
+        <falloffMax value="35" />
+        <falloffExponent value="16" />
+        <innerConeAngle value="0" />
+        <outerConeAngle value="60" />
+        <emmissiveBoost value="false" />
+        <color value="0xFF7FA7E3" />
+        <textureName>vehiclelight_car_led2</textureName>
+        <mirrorTexture value="false" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.1" />
+        <size_far value="7" />
+        <intensity value="7" />
+        <intensity_far value="5" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="2" />
+        <distBetweenCoronas value="18" />
+        <distBetweenCoronas_far value="115" />
+        <xRotation value="0" />
+        <yRotation value="0.408407" />
+        <zRotation value="0.596903" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.5" />
+        <falloffMax value="7.2" />
+        <falloffExponent value="32" />
+        <innerConeAngle value="20" />
+        <outerConeAngle value="78" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+        <textureName />
+        <mirrorTexture value="true" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.8" />
+        <size_far value="2" />
+        <intensity value="1.5" />
+        <intensity_far value="1" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0" />
+        <yRotation value="0" />
+        <zRotation value="0" />
+        <zBias value="0.25" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>schwarzer</name>
+    </Item>
+  </Lights>
+  <Sirens />
+</CVehicleModelInfoVarGlobal>
